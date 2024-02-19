@@ -10,8 +10,8 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUrl: "https://github.com/larissa-pinheiro.png",
-      name: "Larissa May",
+      avatarUrl: "https://github.com/hugoalves98.png",
+      name: "Hugo Rocha",
       role: "Web Developer",
     },
     content: [
@@ -19,9 +19,9 @@ const posts = [
       {
         type: "paragraph",
         content:
-          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é ReactIgnite-Vite2022 🚀",
       },
-      { type: "link", content: "👉 jane.design/doctorcare" },
+      { type: "link", content: "👉 #" },
     ],
     publishedAt: new Date("2022-08-26 18:05:00"),
   },
